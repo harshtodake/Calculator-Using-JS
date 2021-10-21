@@ -10,4 +10,6 @@ This project uses the "calScript.js" as script file for doing the operations.
 
 Through this project we can get the basic understanding of the JavaScript.
 
+GitHub repo : https://github.com/harshtodake/Calculator-Using-JS
+
 Hosted link : https://calculator-using-javascripts.netlify.app/
